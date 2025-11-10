@@ -21,4 +21,4 @@ Pony Creadores!
 
 ---
 
-*Última actualización: 09 de Noviembre de 2025*
+*Última actualización: 10 de Noviembre de 2025*
