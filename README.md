@@ -4,7 +4,10 @@
 - `operaciones.py`: Calculadora básica con operaciones aritméticas.
 
 
-## 📞 Contacto
+## /) /) 
+ ( •.• )  
+  / >❤️
+Pony Creadores!
 - Isaac
 - Yhosvani
 - Ramón
