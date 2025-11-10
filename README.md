@@ -2,6 +2,7 @@
 ## 📂 Estructura del Repositorio
 - `datos_personales.py`: Programa para registrar información personal.
 - `operaciones.py`: Calculadora básica con operaciones aritméticas.
+-  `Archivos .jpg son evidencias de ejecucion`
 
 
 ## /) /) 
