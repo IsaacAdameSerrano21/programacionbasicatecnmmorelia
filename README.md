@@ -8,6 +8,7 @@
 - Isaac
 - Yhosvani
 - Ramón
+
 ¡Gracias por visitar nuestro proyecto! 🌟  
 **#programacionbasicatecnmmorelia**
 
