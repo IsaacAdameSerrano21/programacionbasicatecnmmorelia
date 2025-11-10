@@ -1,5 +1,16 @@
-# programacionbasicatecnmmorelia
-PROGRAMACION BASICA
-Isaac Adame Serrano
-Yhosvani Alberto Lara García
-Ramón Aldair Alcaraz Solorio
+
+## 📂 Estructura del Repositorio
+- `datos_personales.py`: Programa para registrar información personal.
+- `operaciones.py`: Calculadora básica con operaciones aritméticas.
+
+
+## 📞 Contacto
+- Isaac
+- Yhosvani
+- Ramón
+¡Gracias por visitar nuestro proyecto! 🌟  
+**#programacionbasicatecnmmorelia**
+
+---
+
+*Última actualización: 09 de Noviembre de 2025*
